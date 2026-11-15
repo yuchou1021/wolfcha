@@ -23,16 +23,6 @@
 
 一局 8～12 人，真人几个、AI 几个都行，空位自动补齐。几十次模型调用，成本几分钱。
 
-## 界面预览
-
-<p align="center">
-  <img src="docs/screenshots/lobby.png" width="240" alt="房间大厅">
-  <img src="docs/screenshots/game.png" width="240" alt="白天发言与投票">
-  <img src="docs/screenshots/review.png" width="240" alt="赛后复盘">
-</p>
-
-> 图为界面示意（按实际配色与布局绘制），实机效果以运行版本为准。
-
 ## 特性
 
 | | |
@@ -128,7 +118,8 @@ llms_config/         模型预设
 
 - 没有把 `.env`、真实 key、日志带进提交；
 - 规则改动附上对应场景说明（例如“同守同救”的判定）；
-- 前端改动在手机宽度下自测过。
+- 前端改动在手机宽度下自测过；
+- 欢迎用手机截几张实际界面图放到 `docs/screenshots/`（大厅 / 身份牌 / 夜晚 / 投票 / 复盘），README 会展示。
 
 ## 致谢
 
