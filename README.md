@@ -8,6 +8,8 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#贡献)
 
+![Wolfcha](docs/screenshots/hero.png)
+
 ---
 
 ## 这是什么
@@ -20,6 +22,16 @@
 - AI 有**难度梯度**：困难模式会悍跳预言家、给队友发金水、分票、刀跳出来的神职。
 
 一局 8 人（4 真人 + 4 AI）大概几十次模型调用，成本几分钱。
+
+## 界面预览
+
+<p align="center">
+  <img src="docs/screenshots/lobby.png" width="240" alt="房间大厅">
+  <img src="docs/screenshots/game.png" width="240" alt="白天发言与投票">
+  <img src="docs/screenshots/review.png" width="240" alt="赛后复盘">
+</p>
+
+> 图为界面示意（按实际配色与布局绘制），实机效果以运行版本为准。
 
 ## 特性
 
